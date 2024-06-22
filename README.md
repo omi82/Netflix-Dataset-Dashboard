@@ -1,6 +1,6 @@
 ## Netflix Dataset Power BI Dashboard
 
-Welcome to the Power BI dashboard for the Netflix dataset! This dashboard visualizes and analyzes a dataset containing 8,810 rows and 12 columns of Netflix data.
+This dashboard visualizes and analyzes a dataset containing 8,810 rows and 12 columns of Netflix data.
 
 ### Dashboard Features
 
